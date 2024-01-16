@@ -46,4 +46,4 @@ Bu proje kullanıcılara YouTube benzeri bir deneyim sunmayı amaçlayan bir Rea
 
 <h2>Ekran Görüntüsü</h2>
 
-![](./public/yt.mp4)
+![](./public/yt-g.gif)
